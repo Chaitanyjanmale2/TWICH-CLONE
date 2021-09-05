@@ -1,4 +1,4 @@
-TWITCH CLONE BUILD WITH REACT.JS (semantic ui,GOOGLE AUTH2,REDUX)
+
 <h2>TWITCH CLONE BUILD WITH REACT.JS (semantic ui,GOOGLE AUTH2,REDUX)</h2>
 To get started and run the app:
 
