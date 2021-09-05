@@ -4,9 +4,9 @@ To get started and run the app:
 
 Clone the project.
 
-Run <stronge>npm install</stronge> to install the corresponding node packages
+Run <strong>npm install</strong> to install the corresponding node packages
 
-Run <stronge>npm start</stronge> to run the app on http://localhost:3000
+Run <strong>npm start</strong> to run the app on http://localhost:3000
 
 
 ![Alt Text](snaps/1.png?raw=true "Title")
