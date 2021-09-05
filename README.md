@@ -3,8 +3,10 @@ TWITCH CLONE BUILD WITH REACT.JS (semantic ui,GOOGLE AUTH2,REDUX)
 To get started and run the app:
 
 Clone the project.
-Run npm install to install the corresponding node packages
-Run npm start to run the app on http://localhost:3000
+
+Run <stronge>npm install</stronge> to install the corresponding node packages
+
+Run <stronge>npm start</stronge> to run the app on http://localhost:3000
 
 
 ![Alt Text](snaps/1.png?raw=true "Title")
